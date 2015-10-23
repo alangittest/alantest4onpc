@@ -25,7 +25,7 @@ implementation
 
 procedure TForm1.Button1Click(Sender: TObject);
 begin
- showmessage('test4');
+ showmessage('test4 - changed on web');
 end;
 
 end.
